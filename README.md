@@ -13,8 +13,8 @@ Today I work as a Director at RSM US LLP. In my free time I write content for my
 
 💬 Twitter [@d365goddess](https://www.twitter.com/d365goddess)
 
-🎥 YouTube [Dian Taylor](https://www.youtube.com/d365goddess)
+🎥 [YouTube] (https://www.youtube.com/d365goddess)
 
-💼 LinkedIn [Dian Taylor](https://www.linkedin.com/in/diantaylor/)
+💼 [LinkedIn](https://www.linkedin.com/in/diantaylor/)
 
-🌐 My Website [D365Goddess.com](https://D365Goddess.com)
+🌐 My Website [https://d365Goddess.com](https://D365Goddess.com)
