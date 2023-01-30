@@ -57,8 +57,8 @@ This sample demonstrates:
 
 ## Preview
 Please review the screenshot in the assets folder.
-![Preview](./assets/emailmessage.png)  
-![Preview](./assets/scheduledquoteemailflow.png)  
+![Preview](https://raw.githubusercontent.com/d365goddess/main/main/Power%20Automate%20Samples/ScheduledQuoteEmail/assets/EmailMessage.PNG)  
+![Preview](https://raw.githubusercontent.com/d365goddess/main/main/Power%20Automate%20Samples/ScheduledQuoteEmail/assets/ScheduledQuoteEmailFlow.PNG)  
 
 ## Installing the power automate flow
 ### Minimal Path to Awesome
